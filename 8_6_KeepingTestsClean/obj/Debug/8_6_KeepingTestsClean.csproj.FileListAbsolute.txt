@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\8_6_KeepingTestsClean\8_6_KeepingTestsClean\bin\Debug\8_6_KeepingTestsClean.exe.config
+D:\[OOP] - Object Oriented Programming\Test\8_6_KeepingTestsClean\8_6_KeepingTestsClean\bin\Debug\8_6_KeepingTestsClean.exe
+D:\[OOP] - Object Oriented Programming\Test\8_6_KeepingTestsClean\8_6_KeepingTestsClean\bin\Debug\8_6_KeepingTestsClean.pdb
+D:\[OOP] - Object Oriented Programming\Test\8_6_KeepingTestsClean\8_6_KeepingTestsClean\obj\Debug\8_6_KeepingTestsClean.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\8_6_KeepingTestsClean\8_6_KeepingTestsClean\obj\Debug\8_6_KeepingTestsClean.exe
+D:\[OOP] - Object Oriented Programming\Test\8_6_KeepingTestsClean\8_6_KeepingTestsClean\obj\Debug\8_6_KeepingTestsClean.pdb
